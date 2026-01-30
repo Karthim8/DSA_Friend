@@ -1,0 +1,5 @@
+{
+  "name": "DSA MindRecall",
+  "description": "An AI-powered DSA revision system that converts Java solutions into simple English explanations, extracts reusable patterns, and generates interactive flashcards and quizzes for long-term retention.",
+  "requestFramePermissions": []
+}
